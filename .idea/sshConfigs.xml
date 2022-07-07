@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="iron.cs.ucr.edu" id="3e53a709-07fc-440b-a708-b8e8cd3c24ed" port="22" nameFormat="DESCRIPTIVE" username="mhrnaz" />
+    </configs>
+  </component>
+</project>
